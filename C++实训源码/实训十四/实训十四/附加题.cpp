@@ -27,7 +27,7 @@ int dayyear(const date& date) {
     return daycount;
 }
 
-int main() {
+int main4() {
     date date;
 
     cout << "ÇëÊäÈëÄê: ";

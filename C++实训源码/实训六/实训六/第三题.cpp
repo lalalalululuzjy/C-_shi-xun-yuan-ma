@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main3() {
     cout << "100到200之间的素数有：" << endl;
 
     for (int num = 100; num <= 200; num++) {

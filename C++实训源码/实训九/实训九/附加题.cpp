@@ -17,7 +17,7 @@ void hanoi(int numDisks, char source, char dest, char spare) {
     moveDisk(numDisks, source, dest, spare);
 }
 
-int main() {
+int main3() {
     int numDisks = 3; // 定义圆盘的数量
     char source = 'A'; // 初始柱子
     char dest = 'C'; // 目标柱子

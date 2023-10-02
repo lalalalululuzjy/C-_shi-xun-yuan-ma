@@ -2,7 +2,7 @@
 #include <ctime>
 using namespace std;
 
-int main() {
+int main3() {
     srand(time(0)); // 使用当前时间作为随机数种子
 
     int num; // 题目数量

@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main3() {
     int n;
     cout << "请输入字符串的个数：";
     cin >> n;

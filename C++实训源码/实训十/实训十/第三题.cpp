@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main3() {
     int nums[6]; // 数列数组
     cout << "请输入" << 6 << "个数列元素：" << endl;
     for (int i = 0; i < 6; i++) {

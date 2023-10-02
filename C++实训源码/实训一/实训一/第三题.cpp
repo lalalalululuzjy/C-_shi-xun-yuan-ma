@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main3() {
     double z, j, y;
 
     cout << "请输入第一个数: ";
